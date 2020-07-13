@@ -9,7 +9,7 @@
   "author": "Alax Villmann",
   "license": "MIT",
   "dependencies": {
-    "create-hash": "^1.0.0",
+    "hash.js": "^1.1.7",
     "jsbn": "^1.0.0",
     "randombytes": "^2.0.0"
   },
